@@ -1,2 +1,2 @@
-# 3D-Cube-Menu-Naviagation
+# 3D Cube Menu Navigation
 Javascript + CSS3 3D animation to perform alternative menu navigation
